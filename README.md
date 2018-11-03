@@ -1,7 +1,8 @@
 # Acceleo 2.8.0 p2 repository
 
 This project simply provides a p2 repository with the latest Acceleo 2.x ever
-released, version 2.8.0 (from 2011).
+released, version 2.8.0 (from 2011). It is available at
+[https://acceleo-280.netlify.com/](https://acceleo-280.netlify.com/).
 
 The [zipped version](https://download.forge.ow2.org/acceleo/acceleo-2.8.0-updatesite.zip)
 can still be obtained at from [the official download area at OW2](https://download.forge.ow2.org/acceleo).
