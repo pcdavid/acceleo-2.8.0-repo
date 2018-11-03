@@ -5,5 +5,5 @@ released, version 2.8.0 (from 2011).
 
 The [zipped version](https://download.forge.ow2.org/acceleo/acceleo-2.8.0-updatesite.zip)
 can still be obtained at from [the official download area at OW2](https://download.forge.ow2.org/acceleo).
-This project simply published the actual repo in a way that can be consumed by downstream builds,*
+This project simply published the actual repo in a way that can be consumed by downstream builds,
 in particular for _Sirius Kit_.
